@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @code-seamstress
-- 👀 I’m interested in ...painting, vintage fashion (40s & 80s) and cats.
-- 🌱 I’m currently learning ... how to develop my own app. 
-- 💞️ I’m looking to collaborate on ...all things art. 
-- 📫 How to reach me ...@lalaluna_andback on instagram.
+- 👀 I’m interested in ...bettering my code, painting & writing.
+- 🌱 I’m currently learning ... how to build a website from scratch. 
+- 💞️ I’m looking to collaborate on ...social justice projects. 
+- 📫 How to reach me ...email me at amymichele3@gmail.com.
 
 <!---
 code-seamstress/code-seamstress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
